@@ -61,7 +61,7 @@ Salam Khalifa and Nizar Habash ([CAMeL Lab](www.camel-lab.com) @ NYU Abu Dhabi)
 
 ## Paradigm Samples
 
-The complete inflection table for the noun lemma بَركَن _'park_(a vehicale)'_
+The complete inflection table for the noun lemma بَركَن _'park (a vehicle)'_
 ```
 بَركَن	بَركَنتَوا	V;PFV;PL;2
 بَركَن	تبَركِن	V;IPFV;FEM;SG;3
