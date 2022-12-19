@@ -4,6 +4,7 @@ This repo contains the inflection tables for Gulf Arabic (ISO 639-3 `afb`)
 
 ## Contents
 - `afb`: entries based on lemmas that appear in the Annotated Gumar Corpus.
+- `afb.args`: a UniMorph 4.0 compatible verion of `afb`
 - `afb.gloss`: English glosses for the lemmas in `afb`.
 - `README.md`: this file.
 
