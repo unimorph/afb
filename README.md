@@ -10,7 +10,7 @@ This repo contains the inflection tables for Gulf Arabic (ISO 639-3 `afb`)
 
 #
 
-## `arz`
+## `afb`
 
 ### Generation of the lemma inflections
 - The inflections of most of the verb lemmas were generated through the CamelTools morphological generator component
